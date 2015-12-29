@@ -1,0 +1,45 @@
+1
+Smith, Joe
+Honda
+Accord
+yes no yes
+2
+Jones, Erica
+Ford
+Focus
+yes yes no
+3
+Wilson, George
+Chevrolet
+Volt
+no no yes
+4
+Williams, June
+Nissan
+Sentra
+yes yes no
+5
+Majors, James
+Honda
+Civic
+yes no no
+6
+Clancy, Robert
+Volvo
+S40
+no yes yes
+7
+Johnson, Danny
+Buick
+Regal
+yes no yes
+8
+Patterson, Jimmy
+Chevrolet
+Malibu
+no yes yes
+9
+Matson, Randall
+Hyundai
+Sonata
+yes no no
